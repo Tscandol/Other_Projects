@@ -8,7 +8,7 @@ Features Implemented :
 - Player Animation  
 - Ennemies  
 - HealthBar  
-- Enemy Damaage  
+- Enemy Damage  
 - Jump (Player)
 - Coins (Pick-up system)
 - Other Levels + transitions
